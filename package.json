@@ -4,8 +4,5 @@
  "repository": {
     "type": "git",
     "url": "https://github.com/ayushmaan6/ibmproject1.git"
-"scripts": {
-    "start": "langtrans.go"
-}
  }
 }
